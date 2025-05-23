@@ -6,7 +6,7 @@ I'm **@louispangggabean**, a passionate technology enthusiast specializing in Io
 - 👀 I’m interested in **IoT Security, Ethical Hacking, and Penetration Testing**
 - 🌱 I’m currently learning **Advanced Cybersecurity Techniques & Cloud Infrastructure (AWS)**
 - 💞️ I’m looking to collaborate on **IoT security projects, penetration testing challenges, and open-source cybersecurity tools**
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/louis-panggabean) | [Email](mailto:louispanggabean28@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/louis-panggabean/) | [Email](mailto:louispanggabean28@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy reverse engineering and breaking things to make them more secure!**
 
